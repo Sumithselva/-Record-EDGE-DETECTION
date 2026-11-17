@@ -49,8 +49,8 @@ Display all edge-detected images for comparison.
 
 ## Developed By
 
-  ## Name: MIDHUN S 
-  ### Register No: 212224230158
+  ## Name: SUMITH M
+  ### Register No: 212224230279
 
 ---
 
@@ -69,7 +69,8 @@ plt.title('Original Image')
 plt.axis('off')
 ```
 ## OUTPUT:
-<img width="611" height="402" alt="image" src="https://github.com/user-attachments/assets/baf7c955-d3e6-466a-b27e-af2eecbb8741" />
+<img width="660" height="351" alt="image" src="https://github.com/user-attachments/assets/a2948e49-4633-4fda-8e30-4049e990c9c7" />
+
 
 
 ### Sobel Edge Detector:
@@ -82,7 +83,8 @@ plt.title('Sobel Edge Detection')
 plt.axis('off')
 ```
 ## OUTPUT:
-<img width="621" height="402" alt="image" src="https://github.com/user-attachments/assets/cc1f99f1-27c5-47ce-90f4-52a021f82214" />
+<img width="715" height="355" alt="image" src="https://github.com/user-attachments/assets/f56fb4f3-e70f-4705-b667-fd81bb70c82a" />
+
 
 ### Laplacian Edge Detector:
 ```
@@ -92,7 +94,8 @@ plt.title('Laplacian Edge Detection')
 plt.axis('off')
 ```
 ## OUTPUT:
-<img width="632" height="397" alt="image" src="https://github.com/user-attachments/assets/12eb4245-ec57-4f47-a6fb-d4f6672f2e65" />
+<img width="687" height="372" alt="image" src="https://github.com/user-attachments/assets/d74ead5c-836d-49f0-ace8-5011be5c4e2c" />
+
 
 
 ### Canny Edge Detector:
@@ -103,7 +106,8 @@ plt.title('Canny Edge Detection')
 plt.axis('off')  
 ```
 ## OUTPUT:
-<img width="617" height="400" alt="image" src="https://github.com/user-attachments/assets/1a320274-519f-407e-a213-18d9b3a66f59" />
+<img width="712" height="373" alt="image" src="https://github.com/user-attachments/assets/c900a2a1-351f-42ec-9ddb-58ebc602e2e7" />
+
 
 ### Prewitt Edge Detector:
 ```
@@ -128,7 +132,8 @@ plt.title('Prewitt Edge Detection')
 plt.axis('off')
 ```
 ## OUTPUT:
-<img width="627" height="392" alt="image" src="https://github.com/user-attachments/assets/c53a0032-003c-4ba0-9374-473e0ca33aa4" />
+<img width="726" height="351" alt="image" src="https://github.com/user-attachments/assets/98b94e66-1a63-42cf-bba6-21aef15dc096" />
+
 
 ## Result
 
